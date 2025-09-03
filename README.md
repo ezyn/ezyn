@@ -11,9 +11,9 @@
 
 <h2>Skills</h2>
 
-[![Skills](https://api.devicons.dev.br/icon?icons=HTML%2CCSS%2CJavaScript%2CGit%2CReact%2CTypeScript%2CJest%2CTailwindCSS%2CGithub%2CRedux&size=40&theme=dark&perline=30)](https://devicons.dev.br/)
+[![Skills](https://api.devicons.dev.br/icon?icons=HTML%2CCSS%2CJavaScript%2CGit%2CReact%2CTypeScript%2CJest%2CTailwindCSS%2CGithub%2CRedux&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
 
-[![Skills](https://api.devicons.dev.br/icon?icons=PostgreSQL%2CNodeJS&size=40&theme=dark&perline=30)](https://devicons.dev.br/)
+[![Skills](https://api.devicons.dev.br/icon?icons=PostgreSQL%2CNodeJS&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
 
 </div>
 <br>
