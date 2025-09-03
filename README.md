@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao perfil do Ezyn 😁
+### Desenvolvedor Web Frontend e cursando Backend
 
  <div>
    <a href="https://github.com/ezyn">
@@ -6,12 +7,13 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezyn&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div>
+
+<h2>Skills</h2>
+
+[![Skills](https://api.devicons.dev.br/icon?icons=HTML%2CCSS%2CJavaScript%2CGit%2CReact%2CTypeScript%2CJest%2CTailwindCSS%2CGithub%2CRedux%2CPostgreSQL%2CNodeJS&size=40&theme=dark&perline=30)](https://devicons.dev.br/)
+
 </div>
- 
 <br>
  
 ### Me segue nas redes abaixo! 😁
