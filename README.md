@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao perfil do Ezyn 😁
-### Desenvolvedor Web Frontend e cursando Backend
+## Welcome to Ezyn's profile 😁
+### Frontend Web Developer and studying Backend
 
  <div>
    <a href="https://github.com/ezyn">
@@ -18,7 +18,7 @@
 </div>
 <br>
  
-### Me segue nas redes abaixo! 😁
+### Follow me on the networks below! 😁
  
 <div> 
   <a href="https://instagram.com/wesleyezyn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
